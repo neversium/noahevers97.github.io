@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "claude-neon-city-theme": {
+      "source": {
+        "source": "github",
+        "repo": "neversium/claude-neon"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "neon-city@claude-neon-city-theme": true
+  }
+}
